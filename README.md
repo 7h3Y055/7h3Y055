@@ -1,10 +1,10 @@
 # Overview
 
-<p>&nbsp;<img align="center" src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" /></p>
-
 <h1 align="center">Hi 👋, I'm youssef</h1>
-<h3 align="center">A software engineering student</h3>
 
+<p>&nbsp;<img src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" /></p>
+
+<h3 align="center">A software engineering student</h3>
 
 - 💬 Ask me about **Low level programming, networking, backend(js[fastify], python[django])**
 
