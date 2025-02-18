@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm youssef</h1>
 
-<p>&nbsp;<img src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" /></p>
+<img src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" />
 
 <h3 align="center">A software engineering student</h3>
 
