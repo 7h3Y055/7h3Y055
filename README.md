@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A software engineering student</h3>
 
+<p>&nbsp;<img align="center" src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" /></p>
+
 
 - 💬 Ask me about **Low level programming, networking, backend(js[fastify], python[django])**
 
@@ -20,9 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7h3y055&show_icons=true&locale=en&layout=compact" alt="7h3y055" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=7h3y055&show_icons=true&locale=en" alt="7h3y055" /></p>
-
-<p>&nbsp;<img align="center" src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" /></p>
-
-// [![ybouchma's 42 stats](https://badge.mediaplus.ma/darkblue/ybouchma)](https://github.com/oakoudad/badge42)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7h3y055&" alt="7h3y055" /></p>
