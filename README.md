@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm youssef</h1>
 <h3 align="center">A software engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=7h3y055&label=Profile%20views&color=0e75b6&style=flat" alt="7h3y055" /> </p>
 
 - 💬 Ask me about **Low level programming, networking, backend(js[fastify], python[django])**
 
