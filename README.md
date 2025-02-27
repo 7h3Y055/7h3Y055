@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm youssef</h1>
 
-<img src="https://badge.mediaplus.ma/darkblue/ybouchma" alt="ybouchma" />
+# [![ybouchma's 42 stats](https://badge.mediaplus.ma/darkblue/ybouchma)](https://github.com/oakoudad/badge42)
 
 <h3 align="center">A software engineering student</h3>
 
