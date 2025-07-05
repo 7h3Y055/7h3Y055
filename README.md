@@ -23,7 +23,39 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+<div align="center">
+  <p style="margin: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=bash" title="Bash" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=python" title="python" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=c" title="C" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=cpp" title="C++" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS" style="width: 50px;"> <br>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" style="width: 50px;">
+    <!-- <br> -->
+    <img src="https://skillicons.dev/icons?i=django" title="Django" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=npm" title="npm" style="width: 50px;">
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" style="width: 50px;">
+    <!-- <br> -->
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=github" title="GitHub" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" style="width: 50px;">
+    <!-- <br> -->
+    <img src="https://skillicons.dev/icons?i=redhat" title="redhat" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=arch" title="arch" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=windows" title="apache" style="width: 50px;">
+    <img src="https://skillicons.dev/icons?i=linux" title="apache" style="width: 50px;">
+  </p>
+</div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=7h3y055&show_icons=true&locale=en&layout=compact&theme=dark" alt="7h3y055" /></p>
 
